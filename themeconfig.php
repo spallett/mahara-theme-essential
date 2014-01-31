@@ -20,6 +20,7 @@
  * @package    mahara
  * @subpackage theme
  * @author     Julian (@moodleman) Ridden
+ * @editor     s.pallett@federation.edu.au
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL
  * @copyright  (C) 2006-2013 Catalyst IT Ltd http://catalyst.net.nz
  */
