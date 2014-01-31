@@ -32,6 +32,37 @@
       			url('../fonts/fontawesome-webfont.svg#fontawesomeregular?v=3.2.1') format('svg');
 }
 
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Oswald-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/Oswald-Bold.woff') format('woff');
+}@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/PTSans-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/PTSans-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/PTSans-Italic.woff') format('woff');
+}
+
+
 
 /******************** Body ********************/
 body, body#micro{
