@@ -387,6 +387,9 @@ div.pagination a {
 .main-nav li:first-child a:active {
     border-left: 0;
 }
+
+.main-nav .dropdown-sub{top: 92% !important;}
+
 /******************** Sub navigation ********************/
 #sub-nav {
     font-weight: normal;
